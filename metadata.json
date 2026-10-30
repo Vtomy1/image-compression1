@@ -1,0 +1,8 @@
+{
+  "name": "OptiPress Studio",
+  "description": "High-performance client-side batch image compressor, resizer, and format converter with live comparison slider, target-size optimizer, and ZIP export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
